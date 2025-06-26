@@ -1,4 +1,4 @@
-# 📄 Ask Your PDF Anything (Gemini Free API)
+# 📄 Ask Your PDF Anything
 
 A simple Streamlit app that lets you upload a PDF and ask questions based on its content using **Gemini 1.5 Flash (via Google Generative AI API)**.  
 It uses **LangChain**, **FAISS**, and **Google Generative AI Embeddings** to create a powerful document-based Question-Answering chatbot.
@@ -6,7 +6,6 @@ It uses **LangChain**, **FAISS**, and **Google Generative AI Embeddings** to cre
 ---
 
 ## 🚀 Features
-_Use `##` for subheadings and `-` for bullet points:_
 
 - 📄 Upload any PDF file  
 - 🔍 Ask natural language questions  
@@ -17,7 +16,6 @@ _Use `##` for subheadings and `-` for bullet points:_
 ---
 
 ## 🛠️ Technologies Used
-_Use `**text**` for bold and `-` for bullet list:_
 
 - **Python**  
 - **Streamlit**  
@@ -29,7 +27,7 @@ _Use `**text**` for bold and `-` for bullet list:_
 ---
 
 ## 📂 Folder Structure
-_Use `project/ │ ├── filename` format for tree structure:_
+
 
 ```
 project/
@@ -55,7 +53,6 @@ GOOGLE_API_KEY=your_google_gemini_api_key
 ## 💻 How to Run the App
 
 ### 1. Clone the Repository  
-_Use \`code\` blocks for terminal commands:_
 
 ```
 git clone https://github.com/your-username/ask-your-pdf-gemini.git
